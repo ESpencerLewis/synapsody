@@ -25,6 +25,7 @@ Intro video (compressed): [media/Synapsody_Intro_compressed.mp4](media/Synapsody
 ## Related
 
 - [pixeldriver/](pixeldriver/) — a prototype exploring a physical exhibit counterpart, mapping live EEG data to an LED bank propagated through fiber-optic cable and 3D-printed synapse structures.
+- [two-player/](two-player/) — an iteration built around simultaneous two-player interaction.
 
 ## Status
 
