@@ -22,6 +22,10 @@ Intro video (compressed): [media/Synapsody_Intro_compressed.mp4](media/Synapsody
 - **Elle Spencer Lewis** — interactive design, TouchDesigner programming, audio-reactive signal architecture, music composition, EEG data acquisition and filtering
 - **Jeff Smith** — visual design and TouchDesigner programming
 
+## Related
+
+- [pixeldriver/](pixeldriver/) — a prototype exploring a physical exhibit counterpart, mapping live EEG data to an LED bank propagated through fiber-optic cable and 3D-printed synapse structures.
+
 ## Status
 
 Synapsody has gone through multiple research iterations, including work conducted through an ASU-affiliated research collaboration. This project is under active development and being evaluated for IP protection, so production source files and implementation-level detail are not published in this repository.
