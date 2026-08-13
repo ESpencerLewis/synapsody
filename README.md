@@ -22,7 +22,7 @@ Intro video (compressed): [media/Synapsody_Intro_compressed.mp4](media/Synapsody
 ## Credits
 
 - **Elle Spencer Lewis** — interactive design, TouchDesigner programming, audio-reactive signal architecture, music composition, EEG data acquisition and filtering
-- **Jeff Smith** — visual design and TouchDesigner programming
+- **Jeff Smith** (CEO of Eye Vapor at the time) — visual design and TouchDesigner programming
 
 ## Related
 
