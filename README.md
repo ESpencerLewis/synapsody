@@ -13,7 +13,9 @@ Intro video (compressed): [media/Synapsody_Intro_compressed.mp4](media/Synapsody
 ## Technology
 
 - EEG headset for real-time brainwave capture
+- [Petal Metrics](https://petalmetrics.com/) — bridges Muse EEG data over Bluetooth into OSC
 - [TouchDesigner](https://derivative.ca/) — real-time EEG-to-OSC pipeline, visualization, and show control
+- [KalmanJS](https://github.com/wouterbulten/kalmanjs) — signal filtering for EEG data
 - 3D brain model with real-time synaptic mapping driven by live EEG signal
 - Original interactive, nonlinear music composition mapped to brainwave data (relax/focus)
 
