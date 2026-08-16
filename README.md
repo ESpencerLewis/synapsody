@@ -22,7 +22,8 @@ Intro video (compressed): [media/Synapsody_Intro_compressed.mp4](media/Synapsody
 ## Credits
 
 - **Elle Spencer Lewis** — interactive design, TouchDesigner programming, audio-reactive signal architecture, music composition, EEG data acquisition and filtering
-- **Jeff Smith** (CEO of Eye Vapor) — visual design and TouchDesigner programming
+- **Jeff Smith** (CEO of Eye Vapor) — developed the original brain visualization, visual design and TouchDesigner programming
+- **Dr. Adam Gazzaley** (neuroscientist, UCSF) — advised on mapping the brain visualization to each sensor on the specific EEG headset used
 
 ## Related
 
