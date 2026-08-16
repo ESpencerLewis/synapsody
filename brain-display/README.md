@@ -1,6 +1,6 @@
 # Synapsody — Brain Display
 
-The core real-time 3D brain visualization component shared across [Synapsody](../) and reused in a separate project, the EEG-driven Generative Rorschach installation.
+The core real-time 3D brain visualization component used in [Synapsody](../). (A copy of these files was accidentally misfiled into an unrelated project folder — this component was only ever used in Synapsody.)
 
 ## Status
 
