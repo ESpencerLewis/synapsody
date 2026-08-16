@@ -10,6 +10,10 @@ Synapsody is a **1-2 player music game**. Each player wears an EEG headset; cons
 
 Intro video (compressed): [media/Synapsody_Intro_compressed.mp4](media/Synapsody_Intro_compressed.mp4)
 
+## Why
+
+Synapsody is built on the idea that music is more than cultural experience — as music professor Lee Bartel (University of Toronto) has argued, it's a stimulus with real cognitive and memory effects on the brain. Neurofeedback using EEG monitoring is already an effective form of cognitive therapy; Synapsody's premise is that using music itself as the neurofeedback signal could push that method further. It connects three elements — neurofeedback, music, and health — into a single brain-controlled interface aimed at optimizing cognition and brain health.
+
 ## Technology
 
 - EEG headset for real-time brainwave capture
